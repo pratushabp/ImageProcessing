@@ -1,9 +1,4 @@
-#include "imageFunctions.hp'"
-
-
-#define level 256
-#define M_PI 3.141592653589793
-using namespace::std;
+#include "imageFunctions.hpp"
 
 #define level 256
 #define M_PI 3.141592653589793

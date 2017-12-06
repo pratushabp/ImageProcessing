@@ -1,18 +1,4 @@
-#include <vector>
-#include <fstream>
-#include <new>
-#include <iterator>
-#include <algorithm>
-#include <math.h>
-#include <iterator>
-#include <algorithm>
-#include <math.h>
-#include <map>
-#include <random>
-#include <stdio.h>
-#include <iostream>
-#include <conio.h>
-#include <stdlib.h>
+#include "imageFunctions.hp'"
 
 
 #define level 256
